@@ -1,0 +1,29 @@
+.header{
+    background-color: rgb(24, 61, 61);
+}
+.header-text{
+    color:white;
+}
+.text-color{
+    color:rgb(233, 77, 5);
+}
+hr{
+    color:rgb(233, 77, 5);
+}
+.img-grayscale{
+    filter: grayscale(100%);
+    transition:.4s;
+}
+.img-grayscale:hover{
+    filter: grayscale(0%);
+}
+footer{
+    background-color: rgb(24, 61, 61) ;
+}
+
+footer p{
+    text-align:center ;
+    color:white;
+    padding:10px;
+
+}
